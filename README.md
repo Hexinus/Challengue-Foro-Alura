@@ -24,7 +24,7 @@ com.foro
 ├── domain       -> Entidad JPA (Topico)
 ├── dto          -> DTOs de entrada y salida
 ├── repository   -> Acceso a base de datos
-🗃️ Modelo de datos
+ Modelo de datos
 
 Un tópico contiene:
 
@@ -40,7 +40,7 @@ fechaCreacion
 
 activo
 
-🔁 Endpoints
+ Endpoints
 
 POST /topicos → Crear tópico
 
@@ -52,7 +52,7 @@ PUT /topicos/{id} → Actualizar tópico
 
 DELETE /topicos/{id} → Eliminar tópico
 
-🛠️ Tecnologías
+ Tecnologías
 
 Java
 
