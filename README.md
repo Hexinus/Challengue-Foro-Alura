@@ -8,7 +8,7 @@ Este proyecto es una API REST desarrollada con Spring Boot para gestionar tópic
 
 La API permite:
 
-➕ Crear un nuevo tópico
+ Crear un nuevo tópico
 
  Listar todos los tópicos
 
